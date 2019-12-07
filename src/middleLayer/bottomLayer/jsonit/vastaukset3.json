@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "vastaus": "Olen samaa mieltä",
+      "vastattu": false
+    },
+    {
+      "id": 2,
+      "vastaus": "En ole samaa enkä eri mieltä",
+      "vastattu": false
+    },
+    {
+      "id": 3,
+      "vastaus": "Olen täysin eri mieltä",
+      "vastattu": false
+    }
+]

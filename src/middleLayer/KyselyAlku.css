@@ -1,0 +1,26 @@
+.kiitosDivTyyli {
+    background: #ff8533;
+    text-align: center;
+    padding: 2%;
+    border-style: solid;
+    border-color: white;
+  }
+
+  .kiitosTyyli {
+    color: white;
+    font-family: sans-serif;
+    font-size: 130%;
+    font-size: 200%;
+  }
+
+  .nappi {
+    background: #ff8533;
+    text-align: center;
+    padding: 2%;
+    width: 100%;
+    font-family: sans-serif;
+    border-color: white;
+    border-style: solid;
+    font-size: 250%;
+    color: white;
+  }

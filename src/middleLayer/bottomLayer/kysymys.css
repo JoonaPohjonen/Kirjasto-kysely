@@ -1,0 +1,10 @@
+.kysymysTyyli {
+    background: #ff8533;
+    text-align: center;
+    padding: 2%;
+    border-color: white;
+    border-style: solid;
+    width: 95.7%;
+    font-family: sans-serif;
+    font-size: 200%;
+}
